@@ -1,4 +1,6 @@
-# Nolay 🗓️
+# Nolay 🗓️✌️
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Android_APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/samzykari/nolay/releases/latest)
 
 A 100% free planner to track tasks & routines across daily, weekly, and monthly views. Data lives locally on your device, with Drive backups so you control it. I added an AI import feature—just bring any free or paid AI you use to format your schedule to save typing while keeping the app free. Just a personal side project, hope it helps! ✌️
 
@@ -12,7 +14,16 @@ A 100% free planner to track tasks & routines across daily, weekly, and monthly 
 
 ---
 
-## 📥 Download & Install
+## � Screenshots
+*(Just replace the placeholder links below with the actual paths or URLs to your images when you add them to your repo!)*
+
+| Daily View | Weekly View | Monthly View |
+| :---: | :---: | :---: |
+| <img src="screenshots/main.jpg" width="250"/> | <img src="screenshots/weekly.jpg" width="250"/> | <img src="screenshots/monthly.jpg" width="250"/> |
+
+---
+
+## �📥 Download & Install
 
 Grab the `.apk` from the [Releases](../../releases) tab.
 

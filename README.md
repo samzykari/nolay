@@ -15,7 +15,6 @@ A 100% free planner to track tasks & routines across daily, weekly, and monthly 
 ---
 
 ## � Screenshots
-*(Just replace the placeholder links below with the actual paths or URLs to your images when you add them to your repo!)*
 
 | Daily View | Weekly View | Monthly View |
 | :---: | :---: | :---: |
